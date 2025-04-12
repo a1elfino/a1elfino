@@ -3,9 +3,7 @@
 
 <div align="center">
   
-![GitHub followers](https://img.shields.io/github/followers/ayoubelfinou?label=Followers&style=social)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Elfinou-blue?logo=linkedin&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/ayoubelfinou?style=social)
 
 </div>
 
@@ -13,7 +11,7 @@
 
 ## 🔥 À propos de moi
 
-🎓 Diplômé de l’**École Nationale d’Ingénieurs de Brest**, je suis un développeur full stack & ingénieur DevOps curieux, créatif et passionné par les défis tech.  
+🎓 Diplômé de l’**École Nationale d’Ingénieurs de Brest**, je suis un ingénieur Full Stack & ingénieur DevOps curieux, créatif et passionné par les défis tech.  
 🛠️ J’aime créer des solutions **robustes**, **scalables** et **sécurisées**, tout en gardant une expérience utilisateur fluide.  
 🚀 En quête permanente d’apprentissage et d'innovation, j'explore aussi bien le **cloud**, les **outils low-code** que l’**IA appliquée**.
 
