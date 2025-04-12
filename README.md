@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, moi c'est Ayoub Elfinou !</h1>
+<h1 align="center">👋 Hi, I'm Ayoub Elfinou !</h1>
 
 <p align="center">
   <img src="banner-ayoub.png.png" alt="Banner Ayoub" style="max-width:100%; height:auto;" />
