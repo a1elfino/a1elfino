@@ -1,4 +1,9 @@
 <h1 align="center">👋 Salut, moi c'est Ayoub Elfinou !</h1>
+
+<p align="center">
+  <img src="banner-ayoub.png" alt="Banner Ayoub" style="max-width:100%; height:auto;" />
+</p>
+
 <h3 align="center">💻 Ingénieur DevOps & Développeur Full Stack | Passionné par l'innovation, l’automatisation & les technos Cloud ☁️</h3>
 
 <div align="center">
