@@ -1,60 +1,86 @@
-<h1 align="center">Salut 👋, moi c'est Ayoub Elfinou</h1>
-<h3 align="center">Ingénieur DevOps & Développeur Full Stack passionné par l'innovation, l'automatisation et les technologies cloud ☁️</h3>
+<h1 align="center">👋 Salut, moi c'est Ayoub Elfinou !</h1>
+<h3 align="center">💻 Ingénieur DevOps & Développeur Full Stack | Passionné par l'innovation, l’automatisation & les technos Cloud ☁️</h3>
+
+<div align="center">
+  
+![GitHub followers](https://img.shields.io/github/followers/ayoubelfinou?label=Followers&style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Elfinou-blue?logo=linkedin&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/ayoubelfinou?style=social)
+
+</div>
 
 ---
 
-🎯 **À propos de moi**  
-Je suis un développeur full stack & ingénieur DevOps, diplômé de l'École Nationale d'Ingénieurs de Brest.  
-Curieux, polyvalent, et passionné par les nouvelles technologies, j’aime concevoir des solutions innovantes alliant performance, sécurité et ergonomie.
+## 🔥 À propos de moi
+
+🎓 Diplômé de l’**École Nationale d’Ingénieurs de Brest**, je suis un développeur full stack & ingénieur DevOps curieux, créatif et passionné par les défis tech.  
+🛠️ J’aime créer des solutions **robustes**, **scalables** et **sécurisées**, tout en gardant une expérience utilisateur fluide.  
+🚀 En quête permanente d’apprentissage et d'innovation, j'explore aussi bien le **cloud**, les **outils low-code** que l’**IA appliquée**.
 
 ---
 
-💻 **Compétences principales**
+## 💼 Mes compétences
 
-- **Front-End** : Angular, ReactJS, TypeScript, Vue.js, Bootstrap, SASS  
-- **Back-End** : Java (Spring Boot), NodeJS, Python (Flask, FastAPI)  
-- **DevOps / Cloud** : GitLab CI/CD, Jenkins, Docker, Kubernetes, AWS, Azure  
-- **Bases de données** : PostgreSQL, SQL Server, MySQL, MongoDB  
-- **Automatisation & Low-Code** : Appsmith, N8N  
-- **IA & Sécurité** : TensorFlow, Keras, PySide, Sécurité des données  
-- **Tests & Qualité** : Postman, JUnit, Selenium, Credential Scanning
+### 🖥️ Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
----
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-🚀 **Projets phares**
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-- 🎯 **Application de modélisation pour les architectes**  
-Développement d’un outil interactif avec visualisation (ReactJS, NodeJS, D3.js)  
-Déploiement sur Azure avec CI/CD et Docker
-
-- 🧠 **Détection de maladies via deep learning**  
-Analyse de radiographies médicales avec IA (TensorFlow, Keras, PySide)  
-Mise en œuvre de mesures de sécurité avancées pour la data sensible
-
-- 🌿 **Logiciel de caisse écoresponsable**  
-Application de gestion de stock et vente pour une ferme bio (AngularJS, Electron, Flask, PostgreSQL)
-
-- ⚙️ **Plateformes automatisées Low-Code / No-Code**  
-Appsmith + N8N pour simplifier les processus métiers et créer des maquettes d’innovation
-
----
-
-📚 **Ce que je partage ici**
-
-- Des projets full stack perso ou pros
-- Des expérimentations en DevOps / cloud
-- Des astuces sur l’automatisation & le low-code
-- De la veille techno et de la documentation partagée
+### 🧠 Autres skills
+- Low-Code / No-Code : Appsmith, N8N
+- Tests & QA : JUnit, Selenium, Postman
+- IA : TensorFlow, Keras, PySide
+- BDD : PostgreSQL, SQL Server, MongoDB
 
 ---
 
-📫 **Me contacter**
+## 🚀 Projets récents
 
-- ✉️ ayoub2000elfinou@gmail.com  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/ayoub-elfinou)  
-- 🌐 [Mon CV](https://drive.google.com/file/d/1W1a3hOPeToAZ7RGWvKzmmH0JlgGv5RiI/view?usp=sharing) 
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 🧱 **App de modélisation pour architectes** | Outil interactif avec visualisation, gestion d’objets et CI/CD sur Azure | `ReactJS`, `NodeJS`, `D3.js`, `Docker`, `K8s` |
+| 🧠 **Détection de maladies par IA** | Analyse de radios médicales via Deep Learning avec mesures de sécurité | `TensorFlow`, `Keras`, `PySide` |
+| 🌿 **Logiciel de caisse écoresponsable** | Gestion de stock/ventes pour une ferme bio | `AngularJS`, `Flask`, `Electron`, `PostgreSQL` |
+| ⚙️ **Automatisation Low-Code** | Plateformes avec Appsmith & N8N pour accélérer les workflows internes | `N8N`, `Appsmith`, `API REST` |
 
 ---
 
-✨ *Merci d’être passé sur mon profil ! N’hésitez pas à m’écrire, discuter tech ou collaborer !*
+## 📚 Sur ce profil GitHub
 
+✨ Vous trouverez ici :
+
+- Des projets full stack (perso et pro)
+- Des snippets DevOps, automatisations
+- Des ressources partagées & guides
+- Une vitrine vivante de ma passion pour la tech
+
+---
+
+## 📬 Me contacter
+
+📧 Email : **ayoub2000elfinou@gmail.com**  
+🔗 LinkedIn : [ayoub-elfinou](https://www.linkedin.com/in/ayoub-elfinou-486578234/)  
+📄 [Voir mon CV](https://drive.google.com/file/d/1W1a3hOPeToAZ7RGWvKzmmH0JlgGv5RiI/view?usp=sharing)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2709C,100:FF9472&height=120&section=footer&text=Merci%20de%20votre%20visite%20!&fontColor=fff&fontSize=20&animation=fadeIn" />
+</p>
