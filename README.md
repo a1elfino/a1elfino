@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ayoub Elfinou !</h1>
 
-<p align="center">
-  <img src="banner-ayoub.png.png" alt="Banner Ayoub" style="max-width:100%; height:auto;" />
-</p>
+
 
 <h3 align="center">💻 Ingénieur DevOps & Développeur Full Stack | Passionné par l'innovation, l’automatisation & les technos Cloud ☁️</h3>
 
@@ -11,7 +9,9 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Elfinou-blue?logo=linkedin&style=flat-square)
 
 </div>
-
+<p align="center">
+  <img src="banner-ayoub.png.png" alt="Banner Ayoub" style="max-width:100%; height:auto;" />
+</p>
 ---
 
 ## 🔥 À propos de moi
