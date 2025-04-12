@@ -1,84 +1,75 @@
-<h1 align="center">👋 Salut, moi c'est Ayoub Elfinou !</h1>
-<h3 align="center">💻 Ingénieur DevOps & Développeur Full Stack | Passionné par l'innovation, l’automatisation & les technos Cloud ☁️</h3>
+<h1 align="center">Salut 👋, moi c'est Ayoub Elfinou</h1>
+<h3 align="center">Ingénieur DevOps & Développeur Full Stack</h3>
 
-<div align="center">
-  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Elfinou-blue?logo=linkedin&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://drive.google.com/file/d/1ad8dHKkjzZay4NI6PoSyKPtlkCxtIzhJ/view?usp=sharing" alt="Ayoub Elfinou Banner" />
+</p>
 
 ---
 
-## 🔥 À propos de moi
+## 🚀 À propos de moi
 
-🎓 Diplômé de l’**École Nationale d’Ingénieurs de Brest**, je suis un ingénieur Full Stack & ingénieur DevOps curieux, créatif et passionné par les défis tech.  
-🛠️ J’aime créer des solutions **robustes**, **scalables** et **sécurisées**, tout en gardant une expérience utilisateur fluide.  
-🚀 En quête permanente d’apprentissage et d'innovation, j'explore aussi bien le **cloud**, les **outils low-code** que l’**IA appliquée**.
+👨‍💻 Ingénieur diplômé de l'ENIB, je conçois des solutions **innovantes**, **automatisées** et **scalables**.  
+✨ J’allie le développement full stack, le DevOps, et le cloud pour créer des applications modernes, performantes et maintenables.  
 
 ---
 
-## 💼 Mes compétences
+## 🛠️ Compétences
 
-### 🖥️ Frontend
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+### Front-End  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)    
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+### Back-End  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+### DevOps & Cloud  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-### 🧠 Autres skills
-- Low-Code / No-Code : Appsmith, N8N
-- Tests & QA : JUnit, Selenium, Postman
-- IA : TensorFlow, Keras, PySide
-- BDD : PostgreSQL, SQL Server, MongoDB
+### Bases de données  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
----
-
-## 🚀 Projets récents
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🧱 **App de modélisation pour architectes** | Outil interactif avec visualisation, gestion d’objets et CI/CD sur Azure | `ReactJS`, `NodeJS`, `D3.js`, `Docker`, `K8s` |
-| 🧠 **Détection de maladies par IA** | Analyse de radios médicales via Deep Learning avec mesures de sécurité | `TensorFlow`, `Keras`, `PySide` |
-| 🌿 **Logiciel de caisse écoresponsable** | Gestion de stock/ventes pour une ferme bio | `AngularJS`, `Flask`, `Electron`, `PostgreSQL` |
-| ⚙️ **Automatisation Low-Code** | Plateformes avec Appsmith & N8N pour accélérer les workflows internes | `N8N`, `Appsmith`, `API REST` |
+### Outils & Automation  
+![Appsmith](https://img.shields.io/badge/-Appsmith-black?style=flat&logo=appsmith&logoColor=white)  
+![N8N](https://img.shields.io/badge/-n8n-ef5b25?style=flat&logo=n8n&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-## 📚 Sur ce profil GitHub
+## 🌟 Projets phares
 
-✨ Vous trouverez ici :
+- 🧠 **IA pour la détection de maladies médicales** (Python, TensorFlow, Keras, PySide)  
+- 🌱 **Caisse de gestion pour ferme bio** (AngularJS, Flask, PostgreSQL, Electron)  
+- 🏗️ **App de modélisation pour architectes** (ReactJS, D3.js, NodeJS, CI/CD Azure)  
+- ⚙️ **Automatisation Low-Code/No-Code** avec Appsmith & N8N pour les équipes métiers  
 
-- Des projets full stack (perso et pro)
-- Des snippets DevOps, automatisations
-- Des ressources partagées & guides
-- Une vitrine vivante de ma passion pour la tech
+---
+
+## 📚 Ce que je partage ici
+
+🔧 Projets DevOps / full stack  
+🌐 Veille technologique & automatisation  
+🧪 Prototypes innovants  
+📄 Tutoriels internes & outils d’aide
 
 ---
 
 ## 📬 Me contacter
 
-📧 Email : **ayoub2000elfinou@gmail.com**  
-🔗 LinkedIn : [ayoub-elfinou](https://www.linkedin.com/in/ayoub-elfinou-486578234/)  
-📄 [Voir mon CV](https://drive.google.com/file/d/1W1a3hOPeToAZ7RGWvKzmmH0JlgGv5RiI/view?usp=sharing)
+- ✉️ **ayoub2000elfinou@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-elfinou-486578234/)  
+- 📄 [Mon CV](https://drive.google.com/file/d/1W1a3hOPeToAZ7RGWvKzmmH0JlgGv5RiI/view?usp=sharing)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2709C,100:FF9472&height=120&section=footer&text=Merci%20de%20votre%20visite%20!&fontColor=fff&fontSize=20&animation=fadeIn" />
+  Merci d’être passé sur mon profil ! N’hésite pas à me contacter, que ce soit pour discuter tech ou collaborer 🤝
 </p>
