@@ -52,7 +52,7 @@ Appsmith + N8N pour simplifier les processus métiers et créer des maquettes d�
 
 - ✉️ ayoub2000elfinou@gmail.com  
 - 🌍 [LinkedIn](https://www.linkedin.com/in/ayoub-elfinou)  
-- 🌐 [Mon CV](https://linktr.ee/ayoubelfinou) *(ou autre lien si tu veux)*
+- 🌐 [Mon CV](https://drive.google.com/file/d/1W1a3hOPeToAZ7RGWvKzmmH0JlgGv5RiI/view?usp=sharing) 
 
 ---
 
