@@ -58,10 +58,8 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🧱 **App de modélisation pour architectes** | Conception et développement d’une application de modélisation basée sur le langage ArchiMate, en remplacement de la solution open-source Archi.
- | `ReactJS`, `NodeJS`, `D3.js`, `AWS`, `Typescript` |
-| ⚙️ **Automatisation Low-Code**  |  développement et au déploiement d’une plateforme Low-Code / No-Code visant à accélérer la création d’applications métier tout en garantissant une sécurité et une scalabilité optimales.
- | `N8N`, `Appsmith`, `API REST`, 'AWS' |
+| 🧱 **App de modélisation pour architectes** | Conception et développement d’une application de modélisation basée sur le langage ArchiMate, en remplacement de la solution open-source Archi.| `ReactJS`, `NodeJS`, `D3.js`, `AWS`, `Typescript` |
+| ⚙️ **Automatisation Low-Code**  |  développement et au déploiement d’une plateforme Low-Code / No-Code visant à accélérer la création d’applications métier tout en garantissant une sécurité et une scalabilité optimales. | `N8N`, `Appsmith`, `API REST`, 'AWS' |
 | 🧠 **Détection de maladies par DEEP LEARNING** | Conception et développement d’une application capable d’identifier des maladies en analysant | `Python`, `TensorFlow`, `Keras`, `PySide` |
 | 🌿 **Logiciel de caisse écoresponsable** | Développement d’un logiciel de caisse et d'un outil de gestion des ventes et des stocks optimisé pour une ferme écoresponsable | `AngularJS`, `Flask`, `Electron`, `PostgreSQL` |
 
