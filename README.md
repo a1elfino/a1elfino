@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm Ayoub Elfinou !</h1>
+<h1 align="center">👋 Salut, c’est Ayoub Elfinou !</h1>
 
 
 
-<h3 align="center">💻 Ingénieur DevOps & Développeur Full Stack | Passionné par l'innovation, l’automatisation & les technos Cloud ☁️</h3>
+<h3 align="center"> Ingénieur DevOps & Développeur Full Stack | Automatisation, Cloud & Performance</h3>
 
 <div align="center">
   
@@ -16,12 +16,25 @@
 
 ## 🔥 À propos de moi
 
-🎓 Diplômé de l’**École Nationale d’Ingénieurs de Brest**, je suis un développeur full stack & ingénieur DevOps curieux, créatif et passionné par les défis tech.  
-🛠️ J’aime créer des solutions **robustes**, **scalables** et **sécurisées**, tout en gardant une expérience utilisateur fluide.  
-🚀 En quête permanente d’apprentissage et d'innovation, j'explore aussi bien le **cloud**, les **outils low-code** que l’**IA appliquée**.
+🎓 Diplômé de l’**École Nationale d’Ingénieurs de Brest (ENIB)**, je suis un **ingénieur DevOps et développeur full stack**, passionné par l’innovation, l’automatisation et les technologies Cloud.  
+🧠 J’automatise les pipelines, optimise les déploiements, intègre la sécurité et assure la qualité continue du code.  
+💡 Mon objectif : **rendre les processus plus rapides, fiables et scalables**, tout en gardant une approche humaine et collaborative.
+
 
 ---
+## 🧭 Dernière mission
 
+**Ingénieur DevOps – Secteur Assurance (Rouen)**  
+
+
+- Développement et maintenance des **pipelines CI/CD** sous **Azure DevOps**.  
+- Support aux équipes de développement pour la **livraison continue** et la **qualité logicielle**.  
+- Gestion et supervision des environnements de développement, recette et production.  
+- Intégration et maintenance des outils d’**observabilité et de monitoring** : **Prometheus**, **Grafana**, **Loki**, **Tempo**.  
+- Automatisation des processus de déploiement et de contrôle qualité avec **SonarQube**, **Fortify**, **XL Deploy / XL Release**, **Artifactory**, **OpenShift** et **Kubernetes**.  
+- Contribution à la **veille technologique** et à l’amélioration continue des pratiques DevOps au sein du projet.
+
+  
 ## 💼 Mes compétences
 
 ### 🖥️ Frontend
@@ -39,18 +52,32 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+
+![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat&logo=redhat&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![XL Deploy](https://img.shields.io/badge/-XL_Deploy-1E90FF?style=flat&logo=jenkinsx&logoColor=white)
+![XL Release](https://img.shields.io/badge/-XL_Release-8B008B?style=flat&logo=jenkinsx&logoColor=white)
+![Artifactory](https://img.shields.io/badge/-JFrog_Artifactory-41BF47?style=flat&logo=jfrog&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Fortify](https://img.shields.io/badge/-Fortify_SAST/SCA-0072C6?style=flat&logo=fortinet&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/-Loki-FFDD00?style=flat&logo=grafana&logoColor=black)
+![Tempo](https://img.shields.io/badge/-Tempo-006AFF?style=flat&logo=grafana&logoColor=white)
+
 
 ### 🧠 Autres skills
-- Low-Code / No-Code : Appsmith, N8N
-- Tests & QA : JUnit, Selenium, Postman
-- IA : TensorFlow, Keras, PySide
-- BDD : PostgreSQL, SQL Server, MongoDB
+
+- **Sécurité & Qualité :** Fortify, SonarQube, OWASP  
+- **Monitoring & Reporting :** Prometheus, Grafana, ELK Stack  
+- **Low-Code / No-Code :** Appsmith, N8N  
+- **Tests :** Postman, JUnit, Selenium  
+- **Bases de données :** PostgreSQL, SQL Server, MongoDB 
 
 ---
 
